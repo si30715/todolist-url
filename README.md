@@ -6,7 +6,7 @@
 
 細部まで拘って開発しました！
 
-## アプリを使う
+## アプリ
 
 **[My ToDoListを開く](https://todolist-ckm.pages.dev)**
 
