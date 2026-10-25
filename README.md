@@ -4,7 +4,7 @@
 
 日々の予定やタスクを整理し、忘れずに管理できることを目的として開発しました。
 
-細部まで拘って開発しました！
+細部まで拘りました、ぜひ使ってみてください！
 
 ## アプリ
 
@@ -13,6 +13,9 @@
 ブラウザからアクセスして利用できます。
 
 ※ 初回利用時はアカウント登録が必要です。
+
+！通知を受け取るには、ブラウザで開いてからホーム画面に追加->サインインして通知を有効にするを押してください。
+アプリと同じように利用することができます。
 
 ## 主な機能
 
@@ -75,6 +78,8 @@ Firebaseを利用し、ログインしたアカウントに紐づくタスクデ
 本リポジトリはアプリケーションの紹介を目的としています。
   
   
-  Try my new My ToDo List?
-click here!👉🏻 https://todolist-ckm.pages.dev/
+  Hey! Wanna try my new ToDoList app? 💗
 
+Click here to check it out! 👉🏻 https://todolist-ckm.pages.dev/
+
+If you wanna try the notification feature, make sure to add the app to your Home Screen and sign up first! 🔔✨
